@@ -1,18 +1,20 @@
 # Portfolio
-This is Ven's porfolio for telling stories with data at CMU. I am glad to be a participant of this course!
+This is Ven's porfolio for telling stories with data at CMU. I am so glad to be a participant of this course!
 
-This is where all the work will go, so please stay tuned.
+This is where all the work will go, so please stay tuned :).
 
 
 
 # About me
-Hi! I'm Ven, a graduate student at CMU who adores dogs.
+Hi! I'm Ven, a CMU graduate student who adores dogs.
 The more I learn about data analytics and data visualizations, the more I am fascinated by it. 
 
-The visualization and story telling do go side by side when it comes to analytical projects, and make much of a difference. I am so glad to be learning from this course.
+Visualization and story telling do go side by side when it comes to analytical projects, and one small adjustment can make all the difference. 
+
+I am so glad to be learning from this course.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+Everything that I possibly can - obviously. Here are my three personal goals: 
 
 1. List item #1
 2. List item #2
