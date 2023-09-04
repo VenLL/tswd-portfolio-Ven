@@ -1,7 +1,7 @@
 # Portfolio
 This is Ven's porfolio for telling stories with data at CMU. I am so glad to be a participant of this course!
 
-This is where all the work will go, so please stay tuned :).
+This is where the cool work will go to, so please stay tuned :).
 
 
 
@@ -16,35 +16,29 @@ I am so glad to be learning from this course.
 # What I hope to learn
 Everything that I possibly can - obviously. Here are my three personal goals: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. Create data visualizations following good design practices 
+2. Present data and stories about the data in user-friendly ways
+3. Cultivate a taste for visualizations that are well-designed and aware of context
 
-or...
 
-- List item #1
-- List item #2
-- List item #3
 
-# Portfolio
+# My Assignments
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+This is where I will link my final project.
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
 ---
-## Other stuff you can do (you can remove this section - it's just for your reference.)
+## Other stuff you can do (This is for my own future references)
 
 ### Changing text
 
