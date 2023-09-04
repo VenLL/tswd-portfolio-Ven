@@ -9,7 +9,7 @@ This is where all the work will go, so please stay tuned :).
 Hi! I'm Ven, a CMU graduate student who adores dogs.
 The more I learn about data analytics and data visualizations, the more I am fascinated by it. 
 
-Visualization and story telling do go side by side when it comes to analytical projects, and one small adjustment can make all the difference. 
+Visualization and story telling do go hand in hand when it comes to analytical projects, and one small adjustment can make all the difference. 
 
 I am so glad to be learning from this course.
 
