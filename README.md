@@ -1,9 +1,5 @@
 # Portfolio
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+This is Ven's porfolio for telling stories with data at CMU. I am glad to be a participant of this course! This is where all the work will go, so please stay tuned.
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
