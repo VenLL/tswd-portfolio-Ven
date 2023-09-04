@@ -14,7 +14,7 @@ Visualization and story telling do go hand in hand when it comes to analytical p
 I am so glad to be learning from this course.
 
 # What I hope to learn
-Everything that I possibly can - obviously. Here are my three personal goals: 
+Everything that I possibly can - obviously. Here are my three main goals: 
 
 1. Create data visualizations following good design practices 
 2. Present data and stories about the data in user-friendly ways
