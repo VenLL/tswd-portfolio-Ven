@@ -1,7 +1,7 @@
 # Portfolio
 This is Ven's porfolio for telling stories with data at CMU. I am so glad to be a participant of this course!
 
-This is where the cool work will go to, so please stay tuned :).
+This is where the cool work will go, so please stay tuned :).
 
 
 
