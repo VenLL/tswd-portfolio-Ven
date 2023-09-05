@@ -1,4 +1,4 @@
-# Portfolio
+# Overview
 This is Ven's porfolio for telling stories with data at CMU. I am so glad to be a participant of this course!
 
 This is where the cool work will go, so please stay tuned :).
@@ -24,10 +24,10 @@ Here are my three main goals:
 
 
 
-# My Assignments
+# Portfolio
 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
@@ -37,7 +37,7 @@ Here are my three main goals:
 This is where I will link my final project.
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
 ---
 ## Other stuff you can do (This is for my own future references)
