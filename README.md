@@ -11,7 +11,7 @@ The more I learn about data analytics and data visualizations, the more I am fas
 
 Visualization and story telling do go hand in hand when it comes to analytical projects, and one small adjustment can make all the difference. 
 
-I am so glad to be learning from this course.
+I am so glad to be exploring and advancing my relationship with data, and hope that this may become something I get to do for a living. 
 
 # What I hope to learn
 Everything that I possibly can - obviously. 
