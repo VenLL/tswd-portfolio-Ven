@@ -8,8 +8,8 @@ Text here!
 ## Original OECD 2018 Government Debt Graph:
 <iframe src="https://data.oecd.org/chart/7bgS" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7bgS" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
-## My Government Debt Bar Chart 1:
-
+## My Government Debt Chart 1:
+<div class="flourish-embed flourish-chart" data-src="visualisation/14983354"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 ## My Government Debt Bar Chart 2:
