@@ -34,7 +34,7 @@ I was happy to find the animated bar chart template on _Flourish_. It not only m
 
 I also like how one is able to include images of country flags that correspond to each of the countries. Flags make it much easier to understand which country each specific bar is addressing. It is also great to catalogue the regions of the countries according to their continents and via the usage of color-coding. It not only adds another layer to the information, but also adds a layer of visual stimulation without making it too weary for the eyes.
 
-**This type of animated bar chart is helpful in aiding the audience interpret trends and rankings across the years.**
+**This type of animated bar chart is helpful in aiding the audience interpret _trends and rankings across the years_.**
 
 
 
