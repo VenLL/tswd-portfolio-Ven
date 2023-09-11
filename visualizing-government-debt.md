@@ -5,7 +5,7 @@ Text here!
 
 
 
-## Original OECD Government Debt-To-GDP Ratios Chart (2018):
+## Original OECD Government Debt-To-GDP Ratio Chart (2018):
 <iframe src="https://data.oecd.org/chart/7bgS" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7bgS" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 ## My Government Debt-To-GDP Ratio Line Chart:
