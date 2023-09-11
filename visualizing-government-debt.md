@@ -14,9 +14,9 @@ However, it is at times hard to link the names of the countries to its respectiv
 
 This line chart was made by myself via _flourish_ and the instructions of Prof. Goranson.
 
-I like how the names of the countries are simplified to their three-digit acronyms. I also like how simple the use of color is. As there is a different line chart for every documented country, I like how one is able to focus on the trends of each individual country through this positioning. 
+I like how the names of the countries are simplified to their three-digit acronyms. I also like how simple the use of color is. As there is a different line chart for every documented country, I like how one is able to focus on the trends of each individual country through this chart-positioning. 
 
-However, the abbreviations of the counties may make it harder for certain audiences to understand, as not everyone may be familiar with country acronyms. Additionally, it is hard to compare each country’s data and trends with other countries when they are all situated in separate charts. It is also challenging to link the year frames for the x axis to the graphs when there is only one x axis that show the year points, and it is situated so down below. 
+However, the abbreviations of the countries may make it harder for certain audiences to understand, as not everyone may be familiar with country acronyms. Additionally, it is hard to compare each country’s data and trends with other countries when they are all situated in separate charts. It is also challenging to link the year frames for the x axis to the graphs when there is only one x axis that show the year points, and it is situated so down below. 
 
 When I tried to duplicate the x axis label so that the year points could be emphasized under each individual chart; the row of charts at the bottom of the graph would happen to get their year points “cut off”, no matter how I tried. The whole graph looked weirder with the “cut off” labels at the bottom of the graph. Thus, I decided to leave the x axis label as they originally were: that only the last row of charts would have the year frames labeled. I am still unsure of the reason behind having the last row of labels “cut off” when trying to duplicate the year frames.
 This will be something I would like to solve when working with _Flourish_ in the future.
