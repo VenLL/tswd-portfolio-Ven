@@ -27,7 +27,7 @@ Here are my three main goals:
 # Portfolio
 
 
-## Assignment: [Visualizing Government Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](/visualizing-government-debt.md)
 
 
 
