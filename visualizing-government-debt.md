@@ -30,7 +30,7 @@ This will be something I would like to solve when working with _Flourish_ in the
 
 I wanted to have a chart that was different to the regular, ordinary bar chart or line chart, yet not too flashy as to take away the focus from the data.
 
-I was happy to find the animated bar chart template on _Flourish_. It not only made the bar chart fun to look at, but did a great job at leading its audience through the data throughout the respective years. It is amazing how one is able to see the yearly ranking of ten countries with the most debt and their respective ratios in a short period of time, thanks to the animation.
+I was happy to find the animated bar chart template on _Flourish_. It not only made the bar chart fun to look at, but did a great job at leading its audience through the data throughout a span of years. It is amazing how one is able to see the yearly ranking of ten countries with the most debt and their respective ratios in a short period of time, thanks to the animation.
 
 I also like how one is able to include images of country flags that correspond to each of the countries. Flags make it much easier to understand which country each specific bar is addressing. It is also great to catalogue the regions of the countries according to their continents and via the usage of color-coding. It not only adds another layer to the information, but also adds a layer of visual stimulation without making it too weary for the eyes.
 
