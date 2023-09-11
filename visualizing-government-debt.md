@@ -9,7 +9,7 @@ I love how the chart is easy on the eyes in terms of its simple color usage, and
 **This kind of bar chart makes it easy to interpret _relative orders and degrees_ when looking into specific years.**
 
 However, it is at times hard to link the names of the countries to its respective bar, as the country names are slanted, and the eyes can get lost amongst the bars when they all have the same color.
-(Note: On the website where the original OECD bar chart was located, the chart was designed in a way that bars would change color when one clicked on it—which is great. Unfortunately, this feature is lost when the chart becomes embedded to GitHub.)
+(Note: On the website where the original OECD bar chart was located, the chart was designed in a way that bars would change color when one clicked on it—which is great. Unfortunately, this feature is lost when the chart becomes embedded on GitHub.)
 
 
 ### 2. Line Chart:
@@ -20,7 +20,7 @@ I like how the names of the countries are simplified to their three-digit acrony
 
 **This kind of line chart makes it easy to focus on the _trends_ of a specific country when there is a pool of differing countries.**
 
-However, the abbreviations of the countries may make it harder for certain audiences to understand, as not everyone may be familiar with country acronyms. Additionally, it is hard to compare each country’s data and trends with other countries when they are all situated in separate charts. It is also challenging to link the year frames for the x axis to the graphs when there is only one x axis that show the year points, and it is situated so down below. 
+However, the abbreviations of the countries may make it harder for certain audiences to understand, as not everyone may be familiar with country acronyms. Additionally, it is hard to compare each country’s data and trends with other countries when they are all situated in separate charts. It is also challenging to link the year frames for the x axis to the graphs when there is only one x axis that shows the year points, and it is situated so down below. 
 
 When I tried to duplicate the x axis label so that the year points could be emphasized under each individual chart; the row of charts at the bottom of the graph would happen to get their year points “cut off”, no matter how I tried. The whole graph looked weirder with the “cut off” labels at the bottom of the graph. Thus, I decided to leave the x axis label as they originally were: that only the last row of charts would have their year frames labeled. I am still unsure of the reason behind having the last row of labels “cut off” when trying to duplicate the year frames.
 This will be something I would like to solve when working with _Flourish_ in the future.
