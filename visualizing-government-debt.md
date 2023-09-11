@@ -6,7 +6,7 @@
 The first visualization is an original bar chart made by OECD.
 I love how the chart is easy on the eyes in terms of its simple color usage, and love how it is interactive in a way that more data can be attained once one scrolls over each individual bar. It's great that the bars are aligned according to the degrees of the ratios.
 
-**This kind of bar chart makes it easy to interpret relative orders and degrees when looking into specific years.**
+**This kind of bar chart makes it easy to interpret _relative orders and degrees_ when looking into specific years.**
 
 However, it is at times hard to link the names of the countries to its respective bar, as the country names are slanted, and the eyes can get lost amongst the bars when they all have the same color.
 (Note: On the website where the original OECD bar chart was located, the chart was designed in a way that bars would change color when one clicked on it—which is great. Unfortunately, this feature is lost when the chart becomes embedded to GitHub.)
@@ -18,7 +18,7 @@ This line chart was made by myself via _flourish_ and the instructions of Prof. 
 
 I like how the names of the countries are simplified to their three-digit acronyms. I also like how simple the use of color is. As there is a different line chart for every documented country, I like how one is able to focus on the trends of each individual country through this chart-positioning. It's great that more specific data points appear when one scrolls over the line charts.
 
-**This kind of line chart makes it easy to focus on the trends of a specific country when there is a pool of differing countries.**
+**This kind of line chart makes it easy to focus on the _trends_ of a specific country when there is a pool of differing countries.**
 
 However, the abbreviations of the countries may make it harder for certain audiences to understand, as not everyone may be familiar with country acronyms. Additionally, it is hard to compare each country’s data and trends with other countries when they are all situated in separate charts. It is also challenging to link the year frames for the x axis to the graphs when there is only one x axis that show the year points, and it is situated so down below. 
 
