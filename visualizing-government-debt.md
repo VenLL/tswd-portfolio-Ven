@@ -8,7 +8,7 @@ I love how the chart is easy on the eyes in terms of its simple color usage, and
 
 **This kind of bar chart makes it easy to interpret relative orders and degrees when looking into specific years.**
 
-However, it is at times hard to link the names of the countries to its respective bar, as the country names are slanted, and the eyes can appear to be lost amongst the bars when they all have the same color.
+However, it is at times hard to link the names of the countries to its respective bar, as the country names are slanted, and the eyes can get lost amongst the bars when they all have the same color.
 (Note: On the website where the original OECD bar chart was located, the chart was designed in a way that bars would change color when one clicked on it—which is great. Unfortunately, this feature is lost when the chart becomes embedded to GitHub.)
 
 
