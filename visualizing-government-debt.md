@@ -1,7 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Visualizing Government Debt
-## Summary Of The Three Charts: ### 1. OECD Bar Chart
+## Summary Of The Three Charts: 
+### 1. OECD Bar Chart
 The first visualization is an original bar chart made by OECD.
 I love how the chart is easy on the eyes in terms of its simple color usage, and love how it is interactive in a way that more data can be attained once one scrolls over each individual bar. 
 
