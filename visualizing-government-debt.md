@@ -15,5 +15,6 @@ Text here!
 ## My Government Debt-To-GDP Animated Bar Chart:
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/14984296"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+As this dataset deals with data of various countries spanning over decades; I decided that an animated bar chart could be an efficent way of not only addressing the debt ratios of countries throughout each year, but building comparison between the different counties. I chose to highlight the top ten counties with the most government debt-to-gdp ratios per year, and also catagorized the countries via their regions.
 
 ## My Government Debt-To-GDP Chart Via Tableau (To Be Uploaded):
