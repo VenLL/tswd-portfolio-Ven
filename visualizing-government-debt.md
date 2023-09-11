@@ -14,7 +14,7 @@ However, it is at times hard to link the names of the countries to its respectiv
 
 This line chart was made by myself via _flourish_ and the instructions of Prof. Goranson.
 
-I like how the names of the countries are simplified to their three-digit acronyms. I also like how simple the use of color is. As there is a different line chart for every documented country, I like how one is able to focus on the trends of each individual country through this chart-positioning. It's great that more data can be attained when one scrolls over the line charts.
+I like how the names of the countries are simplified to their three-digit acronyms. I also like how simple the use of color is. As there is a different line chart for every documented country, I like how one is able to focus on the trends of each individual country through this chart-positioning. It's great that more specific data points appear when one scrolls over the line charts.
 
 However, the abbreviations of the countries may make it harder for certain audiences to understand, as not everyone may be familiar with country acronyms. Additionally, it is hard to compare each country’s data and trends with other countries when they are all situated in separate charts. It is also challenging to link the year frames for the x axis to the graphs when there is only one x axis that show the year points, and it is situated so down below. 
 
