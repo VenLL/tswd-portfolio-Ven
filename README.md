@@ -28,7 +28,8 @@ Here are my three main goals:
 
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-![gov debt image](<div class="flourish-embed flourish-chart" data-src="visualisation/14976466"><script src="https://public.flourish.studio/resources/embed.js"></script></div>)
+![govdebtimage](<div class="flourish-embed flourish-chart" data-src="visualisation/14976466"><script src="https://public.flourish.studio/resources/embed.js"></script></div>)
+![govdebtimage](https://public.flourish.studio/resources/embed.js"></script></div>)
 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
