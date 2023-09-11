@@ -15,6 +15,6 @@ Text here!
 ## My Government Debt-To-GDP Animated Bar Chart:
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/14984296"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-As this the OECD dataset deals with data of various countries spanning over decades; I decided that an animated bar chart could be an efficent way to not only address the debt ratios of countries throughout the years, but also build a sense of comparison between the different counties for each documented year. I chose to create an animated "race" that would showcase the top ten counties with the most government debt-to-gdp ratios per year, and also color coded the countries via their regions, so that viewers could also get a general understanding of debt-to-gdp ratios across the regions.
+As the OECD dataset deals with data of various countries spanning across decades; I decided that an animated bar chart could be an efficent way to not only address the debt ratios of countries throughout the years, but also build a sense of comparison between the different counties for every documented year. I chose to create an animated "race" that would showcase the top ten counties with the most government debt-to-gdp ratios per year, and also color-coded the countries according to their continents, so that viewers may hopefully gain a general understanding of debt-to-gdp ratios across differing regions.
 
 ## My Government Debt-To-GDP Chart Via Tableau (To Be Uploaded):
