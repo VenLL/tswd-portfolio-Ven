@@ -4,7 +4,9 @@
 ## Summary Of The Three Charts: 
 ### 1. OECD Bar Chart
 The first visualization is an original bar chart made by OECD.
-I love how the chart is easy on the eyes in terms of its simple color usage, and love how it is interactive in a way that more data can be attained once one scrolls over each individual bar. 
+I love how the chart is easy on the eyes in terms of its simple color usage, and love how it is interactive in a way that more data can be attained once one scrolls over each individual bar. It's great that the bars are aligned according to the degrees of the ratios.
+
+**This kind of bar chart makes it easy to interpret orders and degrees when examining specific year.**
 
 However, it is at times hard to link the names of the countries to its respective bar, as the country names are slanted, and the eyes can appear to be lost amongst the bars when they all have the same color.
 (Note: On the website where the original OECD bar chart was located, the chart was designed in a way that bars would change color when one clicked on it—which is great. Unfortunately, this feature is lost when the chart becomes embedded to GitHub.)
@@ -15,6 +17,8 @@ However, it is at times hard to link the names of the countries to its respectiv
 This line chart was made by myself via _flourish_ and the instructions of Prof. Goranson.
 
 I like how the names of the countries are simplified to their three-digit acronyms. I also like how simple the use of color is. As there is a different line chart for every documented country, I like how one is able to focus on the trends of each individual country through this chart-positioning. It's great that more specific data points appear when one scrolls over the line charts.
+
+**This kind of line chart makes it easy to focus on the trends of a specific country when there is a pool of differing countries.**
 
 However, the abbreviations of the countries may make it harder for certain audiences to understand, as not everyone may be familiar with country acronyms. Additionally, it is hard to compare each country’s data and trends with other countries when they are all situated in separate charts. It is also challenging to link the year frames for the x axis to the graphs when there is only one x axis that show the year points, and it is situated so down below. 
 
@@ -29,6 +33,8 @@ I wanted to have a chart that was different to the regular, ordinary bar chart o
 I was happy to find the animated bar chart template on _Flourish_. It not only made the bar chart fun to look at, but did a great job at leading its audience through the data throughout the respective years. It is amazing how one is able to see the yearly ranking of ten countries with the most debt and their respective ratios in a short period of time, thanks to the animation.
 
 I also like how one is able to include images of country flags that correspond to each of the countries. Flags make it much easier to understand which country each specific bar is addressing. It is also great to catalogue the regions of the countries according to their continents and via the usage of color-coding. It not only adds another layer to the information, but also adds a layer of visual stimulation without making it too weary for the eyes.
+
+**This type of animated bar chart is helpful in aiding the audience interpret trends and rankings across the years.**
 
 
 
