@@ -16,5 +16,4 @@ Text here!
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/14984296"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-
 ## My Government Debt Bar Chart Via Tableau (To Be Uploaded):
