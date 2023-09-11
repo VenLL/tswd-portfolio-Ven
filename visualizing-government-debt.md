@@ -17,4 +17,6 @@ Text here!
 
 As the OECD dataset deals with data of various countries spanning across decades; I decided that an animated bar chart could be an efficent way to not only address the debt ratios of countries throughout the years, but also build a sense of comparison between the different counties for every documented year. I chose to create an animated "race" that would showcase the top ten counties with the most government debt-to-gdp ratios per year, and also color-coded the countries according to their continents, so that viewers may hopefully gain a general understanding of debt-to-gdp ratios across differing regions.
 
+Although I had included data points up to the year 2022; it is interesting to see how _Flourish_ wasn't able to process and showcase the 2022 data. I am still unsure and thus curious of the reasoning behind this, but guess that a potential reason may be that there weren't enough countries that had sufficient data for the year 2022.
+
 ## My Government Debt-To-GDP Chart Via Tableau (To Be Uploaded):
