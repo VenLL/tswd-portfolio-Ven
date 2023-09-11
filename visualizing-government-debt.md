@@ -2,7 +2,6 @@
 
 # Visualizing Government Debt
 ## Summary Of The Three Charts:
-
 ### 1. OECD Bar Chart
 The first visualization is an original bar chart made by OECD.
 I love how the chart is easy on the eyes in terms of its simple color usage, and love how it is interactive in a way that more data can be attained once one scrolls over each individual bar. 
