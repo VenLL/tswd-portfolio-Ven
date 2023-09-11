@@ -28,7 +28,7 @@ Here are my three main goals:
 
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-<iframe src="https://data.oecd.org/chart/7beg" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7beg" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
+<div class="flourish-embed flourish-chart" data-src="visualisation/14976466"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
