@@ -60,15 +60,27 @@ The drafted solutions/graphs were created with the help of infogram.
 Note: The data is fabricated and not filled according to the original Kaggle dataset upon this stage of solution drafting.
 
 
-### Wireframe 1:
-This is my first wireframe for the redesign. 
+### Graph 1:
+This is my wireframe for the first graph of my redesigned viz. 
 
 I attempted to make a chart that was the combination of a bar chart and a line graph, and wanted to use it to depict the trends of layoffs over the given time period that the dataset had documented (Jan 2022-Jan 2023).
+
 ![graph 1](/1.jpeg)
 
 
+### Graph 2:
+This is my wireframe for the second graph of my redesigned viz.
+
+
+I attempted to make a bar chart that would portray the top 10 companies that had undergone the most layoffs in regards to the total sum of layoff numbers over the given period (Jan 2022-Jan 2023).
+
 ![graph 2](/2.jpeg)
 
+
+### Graph 3:
+This is my wireframe for the third graph of my redesigned viz.
+
+I attempted to make a bubble chart that would portray the companies that had the most layoffs in regards to their total layoff percentage over the given period (Jan 2022-Jan 2023).
 
 ![graph 3](/3.jpeg)
 
