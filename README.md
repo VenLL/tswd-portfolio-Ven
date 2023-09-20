@@ -31,7 +31,7 @@ Here are my three main goals:
 
 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](/critique-by-design.md)
 
 
 ## Final project
