@@ -61,7 +61,8 @@ Note: The data is fabricated and not filled according to the original Kaggle dat
 
 
 ### Wireframe 1:
-This is my first wireframe for the redesign. I attempted to make a chart that was the combination of a bar chart and a line graph, and wanted to use it to depict the trends of layoffs over the given time period that the dataset had documented (Jan 2022-Jan 2023).
+This is my first wireframe for the redesign. 
+I attempted to make a chart that was the combination of a bar chart and a line graph, and wanted to use it to depict the trends of layoffs over the given time period that the dataset had documented (Jan 2022-Jan 2023).
 ![graph 1](/1.jpeg)
 
 
