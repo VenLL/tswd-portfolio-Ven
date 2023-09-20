@@ -32,7 +32,7 @@ link to [orginal dataset](https://www.kaggle.com/datasets/salimwid/technology-co
 
 **_Aesthetics_** was rated a 7. I found the color choice, typography, and chart types to be overall quite aesthetically pleasing and easy on the eyes. However, the “cramminess of the tree map and the lack of text and graph hierarchy—which would ultimately lead to viewer-restlessness, was what deducted points regarding this metric.
 
-
+**_Engagement_** was rated a 7. In order to get a more rounded understanding of the data, viewers would have to interact with the graphs. However, the engagement is out of necessity and not voluntarily. The way the viz was designed may also its viewers refrain from further sharing or engaging with the data viz with a fear of the viz being too difficult or effort-consuming for oneself or others to interpret.
 
 
 ## Step Three: Drafted Solution
