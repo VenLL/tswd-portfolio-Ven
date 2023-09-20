@@ -24,6 +24,8 @@ link to [orginal dataset](https://www.kaggle.com/datasets/salimwid/technology-co
 
 **_Completeness_** was rated a 7 as the data viz is provides quite complete data that was derived from the Kaggle dataset. with its two sheets: “Overview” and “Maps”. However, no subtext was provided to explain the various data implied on the tree map. It may be difficult for certain readers to understand what “Q2”, “5000”, and “50” depict when they are all piled up against one another and no further units or explanations are given.
 
+**_Perceptibility_** was rated a 6 as the tree map choice with both the data of total layoff numbers and layoff percentages crammed altogether made it difficult to absorb and specify the information. It also took away a chance to logically compare total sums of numbers versus percentages, which is what I found quite interesting about the original data, and thus a pity to miss was showcasing the data onto the data viz.
+
 
 
 ## Step Three: Drafted Solution
