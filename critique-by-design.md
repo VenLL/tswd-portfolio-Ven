@@ -85,5 +85,5 @@ link to [redesigned graph 2](https://public.tableau.com/views/techlayoff2/Top10?
 
 
 
-link to [redesigned graph 3]
+link to [redesigned graph 3](https://public.tableau.com/views/techlayoff3/Dashboard8?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
