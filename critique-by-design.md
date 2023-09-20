@@ -8,7 +8,7 @@ As a person who will be reentering the job market in a few years and as one who 
 
 Additionally, there haven’t been much re-visualizations for this dataset that have already created—or at least they were not too prevalent on the internet.
 
-Another reason for my choice of this data viz is due to the fact that I wanted to challenge myself in readjusting a data viz that was already quite good according to the critique metrics. What can be done to make the data viz and the story of the viz to be clearer, more visually-pleasing, and even more instinctive than it already is? What can be done to prevent misunderstandings and confusion for the viewers? 
+Another reason for my choice of this data viz is due to the fact that I wanted to challenge myself in readjusting a data viz that was already quite good according to the critique metrics. What can be done to make the data viz and the story of the viz to be clearer, more visually-pleasing, and even more instinctive than it already is? What can be done to prevent misunderstandings and confusion for the viewers🧐? 
 
 ### Original Data Viz & Orginal Dataset
 link to [orginal data viz](https://public.tableau.com/views/TechnologyCompanyLayoffs2022-2023_16794592355360/Overview?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/TechnologyCompanyLayoffs2022-2023_16794592355360/Overview?:language=en-US&:display_count=n&:origin=viz_share_link))
