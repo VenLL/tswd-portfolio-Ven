@@ -100,6 +100,18 @@ Asides from my redesigned drafts, I had shown the participants the original data
 * “Remember to place clear headers over your charts, as the descriptions were one thing you wanted to clarify through your new designs, yet that has been left out in your wireframes. ”
 
 
+### Reflections
+
+Thanks to the feedbacks of the participants, I decided to:
+
+1. Make the first graph a line chart instead of a combined chart that may lead to confusion when addressing the same trend. A line chart may also be more suitable in this case, as the graph is showcasing a continuous trend over time.
+2. Add point marks to the data points in the first graph in order to highlight the variation in layoff numbers and stay true to the fact that the original graph had highlighted the number jump from Dec 2022 to Jan 2023.
+3. Stay true to the “New York Times” style the original visualization had addressed, as the style also addresses the audience to which the charts are intended for.
+4. Make clear headers and subheads for the graphs, and be aware of text hierarchy.
+5. Add logos or icons instead of pure text when addressing the companies. This would hopefully not only make the charts more dynamic, but also clarify the companies, and save the viewers time in processing text.
+6. As for the third graph, if bubble charts appear to be crowded, then choose another type of chart.
+
+
 ## Step Five: Solution Building & The Final Graphs
 The drafted solutions/graphs were created via Tableau.
 
