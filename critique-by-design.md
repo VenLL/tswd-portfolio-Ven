@@ -12,6 +12,8 @@ link to [orginal dataset](https://www.kaggle.com/datasets/salimwid/technology-co
 
 
 ## Step Three: Drafted Solution
+The drafted solutions/graphs were created with the help of infogram.
+
 ![graph 1](/1.jpeg)
 
 
@@ -19,3 +21,5 @@ link to [orginal dataset](https://www.kaggle.com/datasets/salimwid/technology-co
 
 
 ![graph 3](/3.jpeg)
+
+## Step Four: Solution Testing
