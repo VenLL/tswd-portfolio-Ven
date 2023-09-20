@@ -2,6 +2,7 @@
 
 # Assignment 3 & 4: Critique by Design
 ## Step One: Finding Data Viz
+### Reasoning behind Data Choice 
 I chose this visualization as the original viz did indeed speak of something important to me, and yet there was still room for improvement. 
 
 As a person who will be re-entering the job market in a few years and as one who has been fascinated (and alarmed) at how fast and sudden job markets fluctuate; the dataset available on Kaggle and the data viz made by Yu-Ning Yang really drew me in. 
