@@ -26,6 +26,8 @@ link to [orginal dataset](https://www.kaggle.com/datasets/salimwid/technology-co
 
 **_Perceptibility_** was rated a 6 as the tree map choice with both the data of total layoff numbers and layoff percentages crammed altogether made it difficult to absorb and specify the information. It also took away a chance to logically compare total sums of numbers versus percentages, which is what I found quite interesting about the original data, and thus a pity to miss was showcasing the data onto the data viz.
 
+**_Truthfulness_** was rated a 7. I originally gave it an even lower rating as I could not understand how percentages could be summed, as percentages relied on the base number of each respective year—which was bound to change throughout the years. However, once I looked further into the dataset on Kaggle; I found that the original data had in fact recorded or concluded the data in a way that the percentages of each company was only documented once, thus there would be no mistake is summing up the percentage for each respective company. The header concluding timing for the data—which can be easily misinterpreted on the data viz, may have also resulted from the original dataset on Kaggle. The title on Kaggle is: Technology Company Layoffs (2022-2023) when only January is recorded for the year 2023. Nevertheless, this is something that could have been identified and adjusted when making the data viz, thus the truthfulness metric was rated a 7.
+
 
 
 ## Step Three: Drafted Solution
