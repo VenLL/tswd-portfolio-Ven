@@ -72,6 +72,7 @@ Note: The data is fabricated and not filled according to the original Kaggle dat
 
 
 ## Step Five: Solution Building & The Final Graphs
+The drafted solutions/graphs were created via Tableau.
 
 ![graph 1](/T2.jpeg)
 
