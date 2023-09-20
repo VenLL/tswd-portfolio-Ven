@@ -45,7 +45,7 @@ The “New York Times” newspaper style stood out to me.
 * Text hierarchy.
 * The inclusion of instructions or subtexts when showcasing more complex charts.
 
-### What May I Try Try to Adjust?
+### What May I Try Try To Adjust & What I Gleaned From The Critique Method?
 
 * Break the emphasis of total layoff numbers verses the percentages into two different graphs—as the respective data tell different stories, and as it may cause misunderstanding when graphed altogether via a tree map. It may also be interesting to compare the differences as two separate graphs. 
 * Clarify the timeline of the recorded data—the data is from Jan 2022 through Jan 2023 (instead of the possibly presumed Jan 2022-Dec 2023).
