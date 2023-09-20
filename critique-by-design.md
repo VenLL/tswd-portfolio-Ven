@@ -22,6 +22,8 @@ link to [orginal dataset](https://www.kaggle.com/datasets/salimwid/technology-co
 ### The Seven Metrics:
 **_Usefulness_** was rated a 7 as the viz communicates information that may be to people in the tech industry or people looking to opt in or opt out of the tech industry. It may also be useful for investors and financiers as it delivers information on trends in the industry. However, the lack of clarity amongst the date and the tree map undermined the viz’s potential usefulness. 
 
+**_Completeness_** was rated a 7 as the data viz is provides quite complete data that was derived from the Kaggle dataset. with its two sheets: “Overview” and “Maps”. However, no subtext was provided to explain the various data implied on the tree map. It may be difficult for certain readers to understand what “Q2”, “5000”, and “50” depict when they are all piled up against one another and no further units or explanations are given.
+
 
 
 ## Step Three: Drafted Solution
