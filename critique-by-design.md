@@ -4,7 +4,7 @@
 ## Step One: Finding Data Viz
 I chose this visualization as the original viz did indeed speak of something important to me, and yet there was still room for improvement. 
 
-As a person who will be reentering the job market in a few years and as one who has been fascinated (and alarmed) at how fast and sudden job markets fluctuate; the dataset available on Kaggle and the data viz made by Yu-Ning Yang really drew me in. 
+As a person who will be re-entering the job market in a few years and as one who has been fascinated (and alarmed) at how fast and sudden job markets fluctuate; the dataset available on Kaggle and the data viz made by Yu-Ning Yang really drew me in. 
 
 Additionally, there hasn't been much re-visualizations for this dataset that have already created—or at least they were not too prevalent on the internet.
 
