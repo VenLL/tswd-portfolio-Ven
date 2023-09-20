@@ -85,6 +85,19 @@ I attempted to make a bubble chart that would portray the companies that had the
 ![graph 3](/3.jpeg)
 
 ## Step Four: Solution Testing
+### Feedback received from participants:
+
+Asides from my redesigned drafts, I had shown the participants the original data viz for comparison. This lead to great feedback that am thankful for.
+
+### Student, early 20s:
+* “Combining a bar chart with a line chart in one single graph may actually make the graph seem more confusing and more complicated than it would need to be.”
+* “Maybe something more can be added to the second drafted graph? It is quite plain at the moment. Not to say that it being plain is bad, as it is clear. But maybe more information or color can be added to make it more dynamic or engaging. ”
+* “You’ve created two bar charts amongst your three redesigns. Ever thought of replacing a bar chart with another kind of chart?  ”
+
+### Adult, late 50s:
+* “It can be a pity to remove the things that you had liked about the original graph in your new designs. For instance, the New York Times style that had been presented in the original graph was lost in the redesign.”
+* “Even though your bubble chart looks much less crowded than the tree map in the original visualization; there is still a chance of your graph becoming unnecessary crowded through a bubble chart.”
+* “Remember to place clear headers over your charts, as the descriptions were one thing you wanted to clarify through your new designs, yet that has been left out in your wireframes. ”
 
 
 ## Step Five: Solution Building & The Final Graphs
