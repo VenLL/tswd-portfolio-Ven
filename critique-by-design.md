@@ -6,7 +6,7 @@ I chose this visualization as it indeed speaks something important to me, yet th
 
 As a person who will be reentering the job market in a few years and as one who has been fascinated (and alarmed) at how fast and sudden job markets fluctuate; the dataset available on Kaggle and the data viz made by Yu-Ning Yang really drew me in. 
 
-Additionally, there haven’t been much re-visualizations for this dataset that have already created—or at least they were not too prevalent on the internet.
+Additionally, there hasn't been much re-visualizations for this dataset that have already created—or at least they were not too prevalent on the internet.
 
 Another reason for my choice of this data viz is due to the fact that I wanted to challenge myself in readjusting a data viz that was already quite good according to the critique metrics. What can be done to make the data viz and the story of the viz to be clearer, more visually-pleasing, and even more instinctive than it already is? What can be done to prevent misunderstandings and confusion for the viewers🧐? 
 
