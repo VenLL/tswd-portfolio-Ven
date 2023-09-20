@@ -78,10 +78,13 @@ The drafted solutions/graphs were created via Tableau.
 link to [redesigned graph 1](https://public.tableau.com/views/techlayoff/Dashboard5?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 ![graph 1](/T2.jpeg)
 
+
+
 link to [redesigned graph 2](https://public.tableau.com/views/techlayoff2/Top10?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 ![graph 1](/T1.jpeg)
 
 
+
 link to [redesigned graph 3](https://public.tableau.com/views/techlayoff3/Dashboard8?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-![graph 1](/T13jpeg)
+![graph 1](/T3jpeg)
 
