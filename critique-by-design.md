@@ -8,7 +8,7 @@ link to [orginal data viz](https://public.tableau.com/views/TechnologyCompanyLay
 link to [orginal dataset](https://www.kaggle.com/datasets/salimwid/technology-company-layoffs-20222023-data?resource=download)
 
 
-## Step Two: Critique Data viz
+## Step Two: Critique Data Viz
 
 
 ## Step Three: Drafted Solution
