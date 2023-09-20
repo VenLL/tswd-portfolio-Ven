@@ -34,6 +34,25 @@ link to [orginal dataset](https://www.kaggle.com/datasets/salimwid/technology-co
 
 7. **_Engagement_** was rated a 7. In order to get a more rounded understanding of the data, viewers would have to interact with the graphs. However, the engagement is out of necessity and not voluntarily. The way the viz was designed may also its viewers refrain from further sharing or engaging with the data viz with a fear of the viz being too difficult or effort-consuming for oneself or others to interpret.
 
+### What Works?
+* The overall color scheme—the blues and yellows are easy on the eyes.
+The “New York Times” newspaper style stood out to me. 
+* The interactiveness and data inclusion regarding the “map” sheet of the Tableau viz—thus the map sections will not be my area of focus when making redesigns.
+
+###  What May Need Work?
+The header that depicts the timeline for the data—2022-2023 can be misleading when only data for January was recorded for 2023.
+The tree map filled with different data and metrics—it is not only difficult to understand but can also cause misinterpretations, as the size of the blocks counterintuitive for perception when it comes to percentages.
+Text hierarchy.
+The inclusion of instructions or subtexts when showcasing more complex charts.
+
+### What May I Try Try to Adjust?
+
+Break the emphasis of total layoff numbers verses the percentages into two different graphs—as the respective data tell different stories, and as it may cause misunderstanding when graphed altogether via a tree map. It may also be interesting to compare the differences as two separate graphs. 
+Clarify the timeline of the recorded data—the data is from Jan 2022 through Jan 2023 (instead of the possibly presumed Jan 2022-Dec 2023).
+Declutter the tree map by perhaps choosing another type of graph depiction, and by focuses on the the top 10 rows or variables instead of squeezing 400 variables into one graph.
+Clarify and simplify the story for each graph.
+
+
 
 ## Step Three: Drafted Solution
 The drafted solutions/graphs were created with the help of infogram.
