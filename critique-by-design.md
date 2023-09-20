@@ -9,7 +9,7 @@ As a person who will be re-entering the job market in a few years and as one who
 
 Additionally, there hasn't been much re-designs done for this data viz—or at least they were not too prevalent as to be found on the internet.
 
-Another reason for my choice of this data viz is due to the fact that I wanted to challenge myself in readjusting a data viz that was already quite good according to the critique metrics. What can be done to make the data viz and the story of the viz to be clearer, more visually-pleasing, and even more instinctive than it already is? What can be done to prevent misunderstandings and confusion for the viewers🧐? 
+Another reason behind my choice of this data viz is due to the fact that I wanted to challenge myself in readjusting a data viz that was already quite good according to the critique metrics. What can be done to make the data viz and the story of the viz to be clearer, more visually-pleasing, and even more instinctive than it already is? What can be done to prevent misunderstandings and confusion for the viewers🧐? 
 
 I will be mainly critiquing and adjusting the data viz that had appeared on the “Overview” sheet on the original data viz.
 
