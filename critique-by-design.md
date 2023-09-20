@@ -17,8 +17,8 @@ link to [orginal dataset](https://www.kaggle.com/datasets/salimwid/technology-co
 
 
 ## Step Two: Critique Data Viz
-###The Seven Metrics:
-*Usefulness* was rated a 7 as the viz communicates information that may be to people in the tech industry or people looking to opt in or opt out of the tech industry. It may also be useful for investors and financiers as it delivers information on trends in the industry. However, the lack of clarity amongst the date and the tree map undermined the viz’s potential usefulness. 
+### The Seven Metrics:
+**Usefulness** was rated a 7 as the viz communicates information that may be to people in the tech industry or people looking to opt in or opt out of the tech industry. It may also be useful for investors and financiers as it delivers information on trends in the industry. However, the lack of clarity amongst the date and the tree map undermined the viz’s potential usefulness. 
 
 
 
