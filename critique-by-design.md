@@ -57,7 +57,7 @@ The “New York Times” newspaper style stood out to me.
 ## Step Three: Drafted Solution
 The drafted solutions/graphs were created with the help of infogram.
 
-Note: The data is fabricated and not filled according to the original Kaggle dataset upon this stage of solution drafting.
+Note: The data is fabricated and not filled according to the original Kaggle dataset at this stage of work.
 
 
 ### Graph 1:
