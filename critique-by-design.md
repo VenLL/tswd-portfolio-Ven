@@ -10,6 +10,8 @@ Additionally, there haven’t been much re-visualizations for this dataset that 
 
 Another reason for my choice of this data viz is due to the fact that I wanted to challenge myself in readjusting a data viz that was already quite good according to the critique metrics. What can be done to make the data viz and the story of the viz to be clearer, more visually-pleasing, and even more instinctive than it already is? What can be done to prevent misunderstandings and confusion for the viewers🧐? 
 
+I will be mainly critiquing and adjusting the data viz that had appeared on the “Overview” sheet on the original data viz.
+
 ### Original Data Viz & Orginal Dataset
 link to [orginal data viz](https://public.tableau.com/views/TechnologyCompanyLayoffs2022-2023_16794592355360/Overview?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/TechnologyCompanyLayoffs2022-2023_16794592355360/Overview?:language=en-US&:display_count=n&:origin=viz_share_link)) create by Yu-Ning Yang via Tableau.
 
