@@ -13,5 +13,5 @@ link to [orginal dataset](https://www.kaggle.com/datasets/salimwid/technology-co
 
 ## Step Three: Drafted Solution
 ![graph 1](/1.jpeg)
-
-
+![graph 2](/2.jpeg)
+![graph 3](/3.jpeg)
