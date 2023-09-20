@@ -13,7 +13,7 @@ Another reason for my choice of this data viz is due to the fact that I wanted t
 ### Original Data Viz & Orginal Dataset
 link to [orginal data viz](https://public.tableau.com/views/TechnologyCompanyLayoffs2022-2023_16794592355360/Overview?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/TechnologyCompanyLayoffs2022-2023_16794592355360/Overview?:language=en-US&:display_count=n&:origin=viz_share_link)) create by Yu-Ning Yang via Tableau.
 
-link to [orginal dataset](https://www.kaggle.com/datasets/salimwid/technology-company-layoffs-20222023-data?resource=download) availbale on Kaggle.
+link to [orginal dataset](https://www.kaggle.com/datasets/salimwid/technology-company-layoffs-20222023-data?resource=download) available on Kaggle.
 
 
 ## Step Two: Critique Data Viz
