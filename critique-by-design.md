@@ -2,7 +2,7 @@
 
 # Assignment 3 & 4: Critique by Design
 ## Step One: Finding Data Viz
-I chose this visualization as the original viz did indeed speak of something important to me, and yet there is still room for improvement. 
+I chose this visualization as the original viz did indeed speak of something important to me, and yet there was still room for improvement. 
 
 As a person who will be reentering the job market in a few years and as one who has been fascinated (and alarmed) at how fast and sudden job markets fluctuate; the dataset available on Kaggle and the data viz made by Yu-Ning Yang really drew me in. 
 
