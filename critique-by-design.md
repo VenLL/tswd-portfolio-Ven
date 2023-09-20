@@ -73,10 +73,10 @@ Note: The data is fabricated and not filled according to the original Kaggle dat
 
 ## Step Five: Solution Building & The Final Graphs
 
-![graph 1](/T1.jpeg)
-
-
 ![graph 1](/T2.jpeg)
+
+
+![graph 1](/T1.jpeg)
 
 
 ![graph 1](/T3.jpeg)
