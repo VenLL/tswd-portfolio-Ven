@@ -11,7 +11,7 @@ Additionally, there haven’t been much re-visualizations for this dataset that 
 Another reason for my choice of this data viz is due to the fact that I wanted to challenge myself in readjusting a data viz that was already quite good according to the critique metrics. What can be done to make the data viz and the story of the viz to be clearer, more visually-pleasing, and even more instinctive than it already is? What can be done to prevent misunderstandings and confusion for the viewers🧐? 
 
 ### Original Data Viz & Orginal Dataset
-link to [orginal data viz](https://public.tableau.com/views/TechnologyCompanyLayoffs2022-2023_16794592355360/Overview?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/TechnologyCompanyLayoffs2022-2023_16794592355360/Overview?:language=en-US&:display_count=n&:origin=viz_share_link)) create by Yu-Ning Yang.
+link to [orginal data viz](https://public.tableau.com/views/TechnologyCompanyLayoffs2022-2023_16794592355360/Overview?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/TechnologyCompanyLayoffs2022-2023_16794592355360/Overview?:language=en-US&:display_count=n&:origin=viz_share_link)) create by Yu-Ning Yang via Tableau.
 
 link to [orginal dataset](https://www.kaggle.com/datasets/salimwid/technology-company-layoffs-20222023-data?resource=download) availbale on Kaggle.
 
