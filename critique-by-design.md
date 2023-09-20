@@ -28,6 +28,9 @@ link to [orginal dataset](https://www.kaggle.com/datasets/salimwid/technology-co
 
 **_Truthfulness_** was rated a 7. I originally gave it an even lower rating as I could not understand how percentages could be summed, as percentages relied on the base number of each respective year—which was bound to change throughout the years. However, once I looked further into the dataset on Kaggle; I found that the original data had in fact recorded or concluded the data in a way that the percentages of each company was only documented once, thus there would be no mistake is summing up the percentage for each respective company. The header concluding timing for the data—which can be easily misinterpreted on the data viz, may have also resulted from the original dataset on Kaggle. The title on Kaggle is: Technology Company Layoffs (2022-2023) when only January is recorded for the year 2023. Nevertheless, this is something that could have been identified and adjusted when making the data viz, thus the truthfulness metric was rated a 7.
 
+**_Intuitiveness_** was rated a 6. Similar to my reasoning for the Completeness and Perceptibility metric; It can be difficult for readers to understand the information with minimal effort when much information is crammed and piled up in a single graph without extra instructions or guidelines. 
+
+
 
 
 ## Step Three: Drafted Solution
