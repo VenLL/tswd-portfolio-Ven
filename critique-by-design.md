@@ -20,9 +20,9 @@ link to [orginal dataset](https://www.kaggle.com/datasets/salimwid/technology-co
 
 ## Step Two: Critique Data Viz
 ### The Seven Metrics:
-**_Usefulness_** was rated a 7 as the viz communicates information that may be to people in the tech industry or people looking to opt in or opt out of the tech industry. It may also be useful for investors and financiers as it delivers information on trends in the industry. However, the lack of clarity amongst the date and the tree map undermined the viz’s potential usefulness. 
+1. **_Usefulness_** was rated a 7 as the viz communicates information that may be to people in the tech industry or people looking to opt in or opt out of the tech industry. It may also be useful for investors and financiers as it delivers information on trends in the industry. However, the lack of clarity amongst the date and the tree map undermined the viz’s potential usefulness. 
 
-**_Completeness_** was rated a 7 as the data viz is provides quite complete data that was derived from the Kaggle dataset. with its two sheets: “Overview” and “Maps”. However, no subtext was provided to explain the various data implied on the tree map. For instance, It may be difficult for certain readers to understand what “Q2”, “5000”, and “50” respectively depict when the data is all piled up against one another with no further units or explanations given.
+2. **_Completeness_** was rated a 7 as the data viz is provides quite complete data that was derived from the Kaggle dataset. with its two sheets: “Overview” and “Maps”. However, no subtext was provided to explain the various data implied on the tree map. For instance, It may be difficult for certain readers to understand what “Q2”, “5000”, and “50” respectively depict when the data is all piled up against one another with no further units or explanations given.
 
 **_Perceptibility_** was rated a 6 as the tree map choice with both the data of total layoff numbers and layoff percentages crammed altogether made it difficult to absorb and specify the information. It also took away a chance to logically compare total sums of numbers versus percentages, which is what I found quite interesting about the original data, and thus a pity to miss was showcasing the data onto the data viz.
 
