@@ -30,7 +30,7 @@ link to [orginal dataset](https://www.kaggle.com/datasets/salimwid/technology-co
 
 **_Intuitiveness_** was rated a 6. Similar to my reasoning for the Completeness and Perceptibility metric; It can be difficult for readers to understand the information with minimal effort when much information is crammed and piled up in a single graph without extra instructions or guidelines. 
 
-**_Aesthetics_** was rated a 8. I found the color choice, typography, and chart types to be overall quite aesthetically pleasing and easy on the eyes. However, the “cramminess of the tree map and the lack of text and graph hierarchy—which would ultimately lead to viewer-restlessness, was what deducted points regarding this metric.
+**_Aesthetics_** was rated a 7. I found the color choice, typography, and chart types to be overall quite aesthetically pleasing and easy on the eyes. However, the “cramminess of the tree map and the lack of text and graph hierarchy—which would ultimately lead to viewer-restlessness, was what deducted points regarding this metric.
 
 
 
