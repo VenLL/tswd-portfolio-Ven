@@ -115,15 +115,25 @@ Thanks to the feedbacks of the participants, I decided to:
 ## Step Five: Solution Building & The Final Graphs
 The drafted solutions/graphs were created via Tableau.
 
+## Graph 1
+
+I created a line chart as to showcase the trends throughout the given period. I made sure to use typography that resonated with the newspaper-style the original graph had given off, and tried many kinds of text hierarchy formats and sizes before settling with the final choice. I also made marks for Dec 2022 and Jan 2023, as it was an interesting point that the original viz had pointed out, and fiddled out with the designs for the points until I settled with the final style. I additionally marked out the data point for the first recorded month (Jan 2022) with a goal to emphasize the number differences from the start till the end of the recorded period.
 
 link to [redesigned graph 1](https://public.tableau.com/views/techlayoff/Dashboard5?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 ![graph 1](/T2.jpeg)
 
 
+## Graph 2
+
+I created a bar bar chart of descending order as to showcase the top 10 companies with most layoffs in regards to total layoff numbers. As for the names of the companies, I swapped text with icons/logos, with a goal to make the bar chart more dynamic and engaging, and clarifying. The logos of these ten companies are icons that viewers may be quite familiar with, thus, the sense of familiarity may hopefully bring out the curiosity and interest for further engagement amongst the viewers. 
 
 link to [redesigned graph 2](https://public.tableau.com/views/techlayoff2/Top10?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 ![graph 1](/T1.jpeg)
 
+
+## Graph 3
+
+After looking deeper into the data, I realized that there were many companies that had laid off 100% of their staff. This then became my main focus of point for the third graph: to showcase companies that had undergone 100% layoffs. First, I tried making a bubble chart and found that due to the similarity amongst percentages, there was no value and reasoning in creating a bubble chart, or any chart that was intended to depict differences amongst companies.In that case, a simple text table would in fact become the most efficient way to deliver my story. However, a simple text table appeared to be boring, ugly, and not engaging at all. I then tried swapping the text for the logos of the companies, and found that it brought energy, engagement, and clarity to the graph.
 
 
 link to [redesigned graph 3](https://public.tableau.com/views/techlayoff3/Dashboard8?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
