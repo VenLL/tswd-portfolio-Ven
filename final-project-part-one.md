@@ -1,8 +1,5 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
  
 ## Project Summary:
@@ -19,6 +16,8 @@ Beginning in October 2014, CMS used the hospital-acquired condition (HAC) qualit
 Public health HAI models (Dixon, 2011) were started by hospital-based clinicians and CDC epidemiologists in the 1960s. The model was built with the goal of identifying HAI, analyzing surveillance data to recognize potential problems, and undergoing implementation to protect hospital patients, staff, and visitors to prevent particular risks. By 1976, the Joint Commission had made it mandatory for accredited hospitals to have infection control programs similar to those recommended by the CDC. In 2008, the U.S. Congress made it mandatory that the Center for Medicare and Medicaid Services (CMS) stop giving hospitals increased payments for the care of patients with HAIs. HAI data points HAI data points have since been strongly tied to the Medicare insurance system (healthaffairs.org, 2015).
 
 As certain hospital evaluation scores such as HAI and HAC directly affect the amount of payment hospitals are able to receive from the Centers for Medicare & Medicaid Services (cms.gov, 2023), this project would also like to detect and address locations and regions where HAI and HAC scores tend to be higher.
+
+We will be focusing on data that documents the years 2021-2023.
 
 ## Project Structure:
 
