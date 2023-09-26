@@ -17,7 +17,7 @@ Public health HAI models (Dixon, 2011) were started by hospital-based clinicians
 
 As certain hospital evaluation scores such as HAI and HAC directly affect the amount of payment hospitals are able to receive from the Centers for Medicare & Medicaid Services (cms.gov, 2023), this project would also like to detect and address locations and regions where HAI and HAC scores tend to be higher.
 
-We will be focusing on data that documents the years 2021-2023.
+I will be focusing on data that documents the years 2021-2023.
 
 ## Project Structure:
 
@@ -38,7 +38,7 @@ Text here...
 The four datasets are all achieved and retrieved from Data.CMU.gov—the Center for Medicare & Medicaid Services. (https://data.cms.gov)
 
 ## Data Usage Explanation
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+I plan on undergoing some cleaning and analysis with the data in order to discover any trends or phenomenons amongst the relationship between hospital information, medicare spending per beneficiary, HAI scores, HAC scores, and geographic locations.
 
 
 
