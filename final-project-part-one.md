@@ -31,7 +31,18 @@ I will be focusing on data that documents the years 2021-2023.
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+![graph](/5.jpeg)
+
+![graph](/6.jpeg)
+
+![graph](/7.jpeg)
+
+![graph](/8.jpeg)
+
+![graph](/9.jpeg)
+
+![graph](/10.jpeg)
+
 
 # The Data
 ## Data Source
