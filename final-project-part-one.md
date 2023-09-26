@@ -24,11 +24,14 @@ I will be focusing on data that documents the years 2021-2023.
 ### Story Arc:
 ![graph](/4.jpeg)
 
-### Phase 1:
+#### Phase 1:
+Patients are grateful to have Medicare as their insurance and have certain expectations that they wish for the insurance to meet.
 
-### Phase 2:
+#### Phase 2:
+Patients realize that by receiving healthcare treatments at certain hospitals and locations, they are not only more prone to getting infections but may also run into trouble when trying to have Medicare cover certain treatment expenses. The current raw data from the original database is hard to interpret for many of the patients, and they wish for a visualization that can help them be better choice-makers when it comes to the choice of healthcare hospitals and locations.
 
-### Phase 3:
+#### Phase 3:
+Patients and recipients of Medicare appreciate visualizations that convey information which can come in handy when deciding healthcare treatment locations. 
 
 
 
@@ -47,7 +50,7 @@ I will be focusing on data that documents the years 2021-2023.
 
 # The Data
 ## Data Source
-The four datasets are all achieved and retrieved from Data.CMU.gov—the Center for Medicare & Medicaid Services. (https://data.cms.gov)
+The four datasets are all achieved and retrieved from Data.CMU.gov—the Center for Medicare & Medicaid Services (https://data.cms.gov).
 
 ## Data Usage Explanation
 I plan on undergoing some cleaning and analysis with the data in order to discover any trends or phenomenons amongst the relationship between hospital information, medicare spending per beneficiary, HAI scores, HAC scores, and geographic locations.
