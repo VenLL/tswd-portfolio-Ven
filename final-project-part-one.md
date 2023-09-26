@@ -39,31 +39,31 @@ Patients and recipients of Medicare appreciate visualizations that convey inform
 
 Note: The data used for the initial sketches is fabricated and does not correspond to the specific datasets that will be used for the final project.
 
-Sketch 1: Maps
+**Sketch 1: Maps**
 
 I plan on creating maps that may create scales/bins that highlight and differentiate HAI & HAC infection rates amongst different counties or zip codes.
 ![graph](/6.jpeg)
 
 
-Sketch 2: Bar Charts
+**Sketch 2: Bar Charts**
 
 I plan on creating bar charts that can express and compare the different HAI & HAC percentages among different counties or zip codes.
 ![graph](/7.jpeg)
 
 
-Sketch 3: Line Chart Combinations
+**Sketch 3: Line Chart Combinations**
 
 I plan on creating graphs that combine line charts with maps in order to showcase the trend of the rates regarding different locations over the recorded year.
 ![graph](/8.jpeg)
 
 
-Sketch 4: Line Charts That Include Forecasting
+**Sketch 4: Line Charts That Include Forecasting**
 
 As there is a good amount of data available for my final project; I plan on creating a line chart that can include forecasts regarding future infection rates.
 ![graph](/9.jpeg)
 
 
-Sketch 5: Line Charts With Regression
+**Sketch 5: Line Charts With Regression**
 
 I also plan on making line charts that document the regression trend for the data.
 ![graph](/10.jpeg)
@@ -85,5 +85,5 @@ I plan on undergoing some cleaning and analysis with the data in order to discov
 |Healthcare Associated Infections|https://drive.google.com/file/d/1IsjM4xgk_YiJX_l-8bL1prnZjeG6Pp4l/view?usp=sharing|This dataset documents the HAI (Healthcare-Associated Infection) rate that measures infections that occur while the patient is in the hospital.|
 |Hospital-Acquired Condition|https://drive.google.com/file/d/1CIo2EYfXVvcRTdbOgSLmokIw-wlifZcQ/view?usp=share_link|This dataset documents HAC (Hospital-Acquired Condition) scores from the HAC reduction program. The scores rank hospitals with respect to Hospital-Acquired Condition quality measures, and the total score is calculated as the equally weighted average of hospitals' individual measure scores.|
 
-# Method and medium
+# Method & Medium
 I plan on undergoing data cleaning via Tableau prep and making visualizations via Tableau desktop and Fourish. I will then use Shorthand to display my final project.
