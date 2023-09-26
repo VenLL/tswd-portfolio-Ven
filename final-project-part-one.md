@@ -29,7 +29,6 @@ I will be focusing on data that documents the years 2021-2023.
 
 
 ## Initial sketches
- 
 ![graph](/5.jpeg)
 
 ![graph](/6.jpeg)
