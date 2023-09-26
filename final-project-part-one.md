@@ -37,14 +37,19 @@ Patients and recipients of Medicare appreciate visualizations that convey inform
 
 # Initial sketches
 
+Sketch 1:
 ![graph](/6.jpeg)
 
+Sketch 2:
 ![graph](/7.jpeg)
 
+Sketch 3:
 ![graph](/8.jpeg)
 
+Sketch 4:
 ![graph](/9.jpeg)
 
+Sketch 5:
 ![graph](/10.jpeg)
 
 
