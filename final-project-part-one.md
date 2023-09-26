@@ -24,12 +24,15 @@ I will be focusing on data that documents the years 2021-2023.
 ### Story Arc:
 ![graph](/4.jpeg)
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+### Phase 1:
+
+### Phase 2:
+
+### Phase 3:
 
 
 
 ## Initial sketches
-![graph](/5.jpeg)
 
 ![graph](/6.jpeg)
 
