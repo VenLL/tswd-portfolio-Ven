@@ -39,19 +39,27 @@ Patients and recipients of Medicare appreciate visualizations that convey inform
 
 Note: The data used for the initial sketches is fabricated and does not correspond to the specific datasets that will be used for the final project.
 
-Sketch 1:
+Sketch 1: Maps
+I plan on creating maps that may create scales/bins that highlight and differentiate HAI & HAC infection rates amongst different counties or zip codes.
 ![graph](/6.jpeg)
 
-Sketch 2:
+Sketch 2: Bar Charts
+I plan on creating bar charts that can express and compare the different HAI & HAC percentages among different counties or zip codes.
 ![graph](/7.jpeg)
 
-Sketch 3:
+Sketch 3: Line Chart Combinations
+I plan on creating graphs that combine line charts with maps in order to showcase the trend of the rates regarding different locations over the recorded year.
+
 ![graph](/8.jpeg)
 
-Sketch 4:
+Sketch 4: Line Charts That Include Forecasting
+As there is a good amount of data available for my final project; I plan on creating a line chart that can include forecasts regarding future infection rates.
+
 ![graph](/9.jpeg)
 
-Sketch 5:
+Sketch 5: Line Charts With Regression
+I also plan on making line charts that document the regression trend for the data.
+
 ![graph](/10.jpeg)
 
 
