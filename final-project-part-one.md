@@ -14,7 +14,11 @@ One of its problems is the fact that healthcare quality provided by Medicare var
 
 The goal of this project is to identify potential issues in Medicare, and also detect certain trends amongst the issues. 
 
-By addressing this topic, we may hopefully be able to discover possible improvements that can be made in the current policy and ensure the programs fit the growing healthcare needs. The data-tidying and visualizations may also hopefully become helpful to patients and patients’ families when trying to choose a hospital or location that may have lower rates of hospital infection which would lead to lower probabilities of Medicare not being able to support certain insurance coverages.
+Beginning in October 2014, CMS used the hospital-acquired condition (HAC) quality measures to rank the hospital's performance. The worst-performing quartile in terms of HAC would face a reduction in Medicare fee-for-service payments from the CMS (cms.gov, 2023). 
+
+Public health HAI models (Dixon, 2011) were started by hospital-based clinicians and CDC epidemiologists in the 1960s. The model was built with the goal of identifying HAI, analyzing surveillance data to recognize potential problems, and undergoing implementation to protect hospital patients, staff, and visitors to prevent particular risks. By 1976, the Joint Commission had made it mandatory for accredited hospitals to have infection control programs similar to those recommended by the CDC. In 2008, the U.S. Congress made it mandatory that the Center for Medicare and Medicaid Services (CMS) stop giving hospitals increased payments for the care of patients with HAIs. HAI data points HAI data points have since been strongly tied to the Medicare insurance system (healthaffairs.org, 2015).
+
+As certain hospital evaluation scores such as HAI and HAC directly affect the amount of payment hospitals are able to receive from the Centers for Medicare & Medicaid Services (cms.gov, 2023), this project would also like to detect and address locations and regions where HAI and HAC scores tend to be higher.
 
 ## Project Structure:
 
