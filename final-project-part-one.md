@@ -71,7 +71,8 @@ I also plan on making line charts that document the regression trend for the dat
 
 # The Data
 ## Data Source
-The four datasets are all achieved and retrieved from Data.CMU.gov—the Center for Medicare & Medicaid Services (https://data.cms.gov).
+The four datasets are all achieved and retrieved from Data.CMU.gov—the Center for Medicare & Medicaid Services
+[link](https://data.cms.gov).
 
 ## Data Usage Explanation
 I plan on undergoing some cleaning and analysis with the data in order to discover any trends or phenomenons amongst the relationship between hospital information, medicare spending per beneficiary, HAI scores, HAC scores, and geographic locations.
@@ -80,10 +81,10 @@ I plan on undergoing some cleaning and analysis with the data in order to discov
 
 | Name | URL | Description |
 |------|-----|-------------|
-|Medicare Spending Per Beneficiary|https://drive.google.com/file/d/1ZLPEfB2agSnhmHblKXW1yg2Ou254-QdQ/view?usp=share_link|This dataset records the MSPB (Medicare Spending Per Beneficiary) score, which mainly showcases the degrees to which Medicare spends on each specific hospital when compared to the national median (or midpoint) hospital|
-|Hospital General Information|https://drive.google.com/file/d/18I-ygqpZ8K3cVmZdaLYA0lUB1KmehTgJ/view?usp=share_link|This is the dataset that documents a list of all the hospitals that have been registered with Medicare. It also records general information about the hospitals, such as addresses, phone numbers, hospital types, and overall hospital ratings. |
-|Healthcare Associated Infections|https://drive.google.com/file/d/1IsjM4xgk_YiJX_l-8bL1prnZjeG6Pp4l/view?usp=sharing|This dataset documents the HAI (Healthcare-Associated Infection) rate that measures infections that occur while the patient is in the hospital.|
-|Hospital-Acquired Condition|https://drive.google.com/file/d/1CIo2EYfXVvcRTdbOgSLmokIw-wlifZcQ/view?usp=share_link|This dataset documents HAC (Hospital-Acquired Condition) scores from the HAC reduction program. The scores rank hospitals with respect to Hospital-Acquired Condition quality measures, and the total score is calculated as the equally weighted average of hospitals' individual measure scores.|
+|Medicare Spending Per Beneficiary|[link](https://drive.google.com/file/d/1ZLPEfB2agSnhmHblKXW1yg2Ou254-QdQ/view?usp=share_link)|This dataset records the MSPB (Medicare Spending Per Beneficiary) score, which mainly showcases the degrees to which Medicare spends on each specific hospital when compared to the national median (or midpoint) hospital|
+|Hospital General Information|[link](https://drive.google.com/file/d/18I-ygqpZ8K3cVmZdaLYA0lUB1KmehTgJ/view?usp=share_link)|This is the dataset that documents a list of all the hospitals that have been registered with Medicare. It also records general information about the hospitals, such as addresses, phone numbers, hospital types, and overall hospital ratings. |
+|Healthcare Associated Infections|[link](https://drive.google.com/file/d/1IsjM4xgk_YiJX_l-8bL1prnZjeG6Pp4l/view?usp=sharing)|This dataset documents the HAI (Healthcare-Associated Infection) rate that measures infections that occur while the patient is in the hospital.|
+|Hospital-Acquired Condition|[link](https://drive.google.com/file/d/1CIo2EYfXVvcRTdbOgSLmokIw-wlifZcQ/view?usp=share_link)|This dataset documents HAC (Hospital-Acquired Condition) scores from the HAC reduction program. The scores rank hospitals with respect to Hospital-Acquired Condition quality measures, and the total score is calculated as the equally weighted average of hospitals' individual measure scores.|
 
 # Method & Medium
 I plan on undergoing data cleaning via Tableau prep and making visualizations via Tableau desktop and Fourish. I will then use Shorthand to display my final project.
