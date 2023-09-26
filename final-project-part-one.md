@@ -72,7 +72,7 @@ I also plan on making line charts that document the regression trend for the dat
 # The Data
 ## Data Source
 The four datasets are all achieved and retrieved from Data.CMU.gov—the Center for Medicare & Medicaid Services
-[link](https://data.cms.gov).
+([link](https://data.cms.gov)).
 
 ## Data Usage Explanation
 I plan on undergoing some cleaning and analysis with the data in order to discover any trends or phenomenons amongst the relationship between hospital information, medicare spending per beneficiary, HAI scores, HAC scores, and geographic locations.
