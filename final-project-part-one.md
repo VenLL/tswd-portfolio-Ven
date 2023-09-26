@@ -33,12 +33,14 @@ We will be focusing on data that documents the years 2021-2023.
 
 Text here...
 
-# The data
+# The Data
+## Data Source
+The four datasets are all achieved and retrieved from Data.CMU.gov—the Center for Medicare & Medicaid Services. (https://data.cms.gov)
+
+## Data Usage Explanation
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
