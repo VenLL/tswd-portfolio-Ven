@@ -37,6 +37,8 @@ Patients and recipients of Medicare appreciate visualizations that convey inform
 
 # Initial sketches
 
+Note: The data used for the initial sketches is fabricated and does not correspond to the specific datasets that will be used for the final project.
+
 Sketch 1:
 ![graph](/6.jpeg)
 
