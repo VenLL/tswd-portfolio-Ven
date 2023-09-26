@@ -42,10 +42,10 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|Medicare_Hospital_Spending_Per_Patient-Hospital|https://drive.google.com/file/d/1ZLPEfB2agSnhmHblKXW1yg2Ou254-QdQ/view?usp=share_link|             |
-|Hospital General Information|https://drive.google.com/file/d/18I-ygqpZ8K3cVmZdaLYA0lUB1KmehTgJ/view?usp=share_link|             |
-|Healthcare_Associated_Infections-Hospital|https://drive.google.com/file/d/1IsjM4xgk_YiJX_l-8bL1prnZjeG6Pp4l/view?usp=sharing|             |
-|HAC|https://drive.google.com/file/d/1CIo2EYfXVvcRTdbOgSLmokIw-wlifZcQ/view?usp=share_link     |             |
+|Medicare Spending Per Beneficiary|https://drive.google.com/file/d/1ZLPEfB2agSnhmHblKXW1yg2Ou254-QdQ/view?usp=share_link|This dataset records the MSPB (Medicare Spending Per Beneficiary) score, which mainly showcases the degrees to which Medicare spends on each specific hospital when compared to the national median (or midpoint) hospital|
+|Hospital General Information|https://drive.google.com/file/d/18I-ygqpZ8K3cVmZdaLYA0lUB1KmehTgJ/view?usp=share_link|This is the dataset that documents a list of all the hospitals that have been registered with Medicare. It also records general information about the hospitals, such as addresses, phone numbers, hospital types, and overall hospital ratings. |
+|Healthcare Associated Infections|https://drive.google.com/file/d/1IsjM4xgk_YiJX_l-8bL1prnZjeG6Pp4l/view?usp=sharing|This dataset documents the HAI (Healthcare-Associated Infection) rate that measures infections that occur while the patient is in the hospital.|
+|Hospital-Acquired Condition|https://drive.google.com/file/d/1CIo2EYfXVvcRTdbOgSLmokIw-wlifZcQ/view?usp=share_link|This dataset documents HAC (Hospital-Acquired Condition) scores from the HAC reduction program. The scores rank hospitals with respect to Hospital-Acquired Condition quality measures, and the total score is calculated as the equally weighted average of hospitals' individual measure scores.|
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
