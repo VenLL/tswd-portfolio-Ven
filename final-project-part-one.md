@@ -60,6 +60,4 @@ I plan on undergoing some cleaning and analysis with the data in order to discov
 |Hospital-Acquired Condition|https://drive.google.com/file/d/1CIo2EYfXVvcRTdbOgSLmokIw-wlifZcQ/view?usp=share_link|This dataset documents HAC (Hospital-Acquired Condition) scores from the HAC reduction program. The scores rank hospitals with respect to Hospital-Acquired Condition quality measures, and the total score is calculated as the equally weighted average of hospitals' individual measure scores.|
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I plan on undergoing data cleaning via Tableau prep and making visualizations via Tableau desktop and Fourish. I will then use Shorthand to display my final project.
