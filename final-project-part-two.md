@@ -78,13 +78,10 @@ I showed the interviewees the current materials I had uploaded to shorthand, and
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
+| 1. Add more images that are relevant to the story| I will find and add images that address my story, especially images that can help address information that is more abstract or difficult |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
