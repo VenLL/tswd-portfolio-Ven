@@ -35,6 +35,18 @@ My target audience is people who are looking to enroll and commit themselves or 
 ## Interview Approach
 I selected 3 individuals who are of varying ages and stages in life, yet prioritize health in their lives and are highly interested in and sensitive to healthcare-related issues.
 
+Interviewee 1:
+
+A man in his 50s who works in the healthcare industry.
+
+Interviewee 2:
+
+A woman in her 60s who is a retired professional with declining health.
+
+Interviewee 3:
+
+A student in her 20s who has a chronic illness resulting to a need to visit hospitals every now and then.
+
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
