@@ -30,9 +30,8 @@ I laid out my wireframes and storylines in the order of:
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+My target audience is people who are looking to enroll and commit themselves or their loved ones to certain hospitals in order to gain treatments, checkups, or any other sort of healthcare-related assistance.
 
-Text here!
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
