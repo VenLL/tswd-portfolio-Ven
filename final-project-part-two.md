@@ -27,6 +27,7 @@ I laid out my wireframes and storylines in the order of:
 10. Call for action.
 
 Note:
+
 Unfortunately, I encountered many difficulties when trying to upload my Tableau interactive charts to shorthand. Thus, at this stage, images of my interactive charts were uploaded to shorthand instead of the published interactive charts themselves. I will make sure that my interactive charts are uploadable and viewable in shorthand before the final project’s final phase and presentation.
 
 # User research 
