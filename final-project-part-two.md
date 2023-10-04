@@ -60,8 +60,6 @@ A female student in her 20s who has a chronic illness resulting in a need to vis
 |4. Gain tips and insights on how to make the arrangements on shorthand in a more visually pleasing and readable way.      |  4. Is there anything you like about the current layout (e.g.: text size, color, image-text relationship… etc..)? Is there anything you dislike about the current layout, and why? Are there any suggestions you could give regarding the current layout?                 |
 
 
-Text here!
-
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
