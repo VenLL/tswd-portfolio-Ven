@@ -32,6 +32,7 @@ I laid out my wireframes and storylines in the order of:
 ## Target audience
 My target audience is people who are looking to enroll and commit themselves or their loved ones to certain hospitals in order to gain treatments, checkups, or any other sort of healthcare-related assistance.
 
+## Interview Approach
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
