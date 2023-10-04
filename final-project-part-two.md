@@ -81,11 +81,11 @@ I showed the interviewees the current materials I had uploaded to shorthand, and
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| 1. Add more images that are relevant to the story| I will find and add images that address my story, especially images that can help address information that is more abstract or difficult |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| 1. Add more images that are relevant to the story| I will find and add images that address my story, especially images that can help address information that is more abstract or difficult. |
+| 2. Beware of proportions and overlap |   As the overlap of image and text can create unreadability, I will be careful as to create readable hierarchies when dealing with the combination of text and images.  |
+| 3. Be consistent when you should  |  Although it is good to be creative and create diversity in certain aspects of design; consistency can be key when it comes to typography, paragraph framing, and colors. I will make sure to keep such aspects consistent and more readable. |
+| 4. Remember to cite    |  I will make sure not to leave out any citations in my final material, and document the citations consistently. |
+|5. Add more headings, titles, and paragraphs to clarify and improve the flow of direction for my story  | I will add more headings, titles, and paragraphs to clarify and improve the flow of direction for my story, especially when it comes to data-driven visualizations, as it is hard to understand their position in the story without clearer directions.|
 
 # Final Thoughts
 > ...include any final thoughts you have here. 
