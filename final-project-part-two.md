@@ -6,7 +6,7 @@ I have drafted my wireframe and storyboard via shorthand ([link](https://carnegi
 
 I laid out my wireframes and storylines in the order of:
 
-1. Title+ title image
+1. Title + title image
 
 2. Intro
 
@@ -14,13 +14,13 @@ I laid out my wireframes and storylines in the order of:
 
 4. SIR rates information
 
-5. SIR and HAC rate relationship information+image
+5. SIR and HAC rate relationship information + image
 
 6. Interactive Tableau Chart 1
 
 7. Interactive Tableau Chart 2
 
-8. Hook question for call for action+image
+8. Hook question for call for action + image
 
 9. Interactive Tableau chart 3
 
