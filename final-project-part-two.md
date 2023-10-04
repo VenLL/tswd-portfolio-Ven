@@ -5,15 +5,25 @@
 I have drafted my wireframe and storyboard via shorthand ([link](https://carnegiemellon.shorthandstories.com/sir-rates/index.html)).
 
 I laid out my wireframes and storylines in the order of:
+
 Title+ title image
+
 Intro
+
 Hook questions
+
 SIR rates information
+
 SIR and HAC rate relationship information+image
+
 Interactive Tableau Chart 1
+
 Interactive Tableau Chart 2
+
 Hook question for call for action+image
+
 Interactive Tableau chart 3
+
 Call for action.
 
 
