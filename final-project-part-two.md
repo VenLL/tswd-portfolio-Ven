@@ -51,9 +51,6 @@ Interviewee 3:
 A female student in her 20s who has a chronic illness resulting in a need to visit hospitals every now and then.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
