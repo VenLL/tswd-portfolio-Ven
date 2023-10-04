@@ -33,7 +33,7 @@ I laid out my wireframes and storylines in the order of:
 My target audience is people who are looking to enroll and commit themselves or their loved ones to certain hospitals in order to gain treatments, checkups, or any other sort of healthcare-related assistance.
 
 ## Interview Approach
-I selected 3 individuals who are of varying ages and stages in life, yet prioritize health in their lives and are highly interested in and sensitive to healthcare-related issues.
+I selected 3 individuals who are of varying ages and stages in life, yet prioritize health in their lives, and are highly interested in and sensitive to healthcare-related issues.
 
 Interviewee 1:
 
