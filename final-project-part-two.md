@@ -58,7 +58,7 @@ Text here!
 | Goal | Questions to Ask |
 |------|------------------|
 | 1. Gain insights that may help make my wireframe and storyline smoother and easier to understand | 1. Is the storyline understandable? Is there anything text-related that I could add, edit, or remove to make my storyline clearer to you? |
-|      |                  |
+| 2. Gain insights that may help make my wireframe and storyline smoother and easier to understand | 2. Are the current images that aren’t data-driven charts or graphs helpful for the story? Are there images you think I could add, edit, or remove to make my storyline clearer to you? |
 |      |                  |
 
 
