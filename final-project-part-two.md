@@ -88,9 +88,7 @@ I showed the interviewees the current materials I had uploaded to shorthand, and
 |5. Add more headings, titles, and paragraphs to clarify and improve the flow of direction for my story  | I will add more headings, titles, and paragraphs to clarify and improve the flow of direction for my story, especially when it comes to data-driven visualizations, as it is hard to understand their position in the story without clearer directions.|
 
 # Final Thoughts
-> ...include any final thoughts you have here. 
-
-Text here!
+I  am really glad that I created my wireframes and storyline drafts in shorthand for the interviewees to analyze. As imperfect as my draft was; the feedback I received was really helpful and would give me a better sense of direction to where I should be heading towards and aiming for when it comes to the final content and layout.
 
 
 
