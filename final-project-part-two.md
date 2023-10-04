@@ -57,7 +57,7 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
+| 1. Gain insights that may help make my wireframe and storyline smoother and easier to understand | 1. Is the storyline understandable? Is there anything I could add, edit, or remove to make my storyline clearer to you? |
 |      |                  |
 |      |                  |
 
