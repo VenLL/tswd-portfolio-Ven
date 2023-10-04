@@ -57,8 +57,11 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-| 1. Gain insights that may help make the text of my wireframe and storyline smoother and easier to understand | 1. Is the storyline understandable? Is there anything text-related that I could add, edit, or remove to make my storyline clearer to you? |
-| 2. Gain insights that may help make the images of my wireframe and storyline smoother and easier to understand | 2. Are the current images that aren’t data-driven charts or graphs helpful for the story? Are there images you think I could add, edit, or remove to make my storyline clearer to you? |
+| 1. Gain insights that may help make the text of my wireframe and storyline smoother and easier to understand. | 1. Is the storyline understandable? Is there anything text-related that I could add, edit, or remove to make my storyline clearer to you? |
+| 2. Gain insights that may help make the images of my wireframe and storyline smoother and easier to understand. | 2. Are the current images that aren’t data-driven charts or graphs helpful for the story? Are there images you think I could add, edit, or remove to make my storyline clearer to you? |
+| 3. Are the data-driven visualizations clear and helpful to you? Is there anything I could do to make the data-driven visualizations direct the information in a clearer and more engaging way?      |                  |
+|      |                  |
+|      |                  |
 |      |                  |
 
 
