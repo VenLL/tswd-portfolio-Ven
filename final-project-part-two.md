@@ -50,6 +50,10 @@ Interviewee 3:
 
 A female student in her 20s who has a chronic illness resulting in a need to visit hospitals every now and then.
 
+
+I showed the interviewees the current materials I had uploaded to shorthand, and also the interactive charts that I had created in Tableau (as I had trouble uploading them to shorthand).
+
+
 ## Interview script
 
 | Goal | Questions to Ask |
