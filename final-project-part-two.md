@@ -61,15 +61,13 @@ A female student in her 20s who has a chronic illness resulting in a need to vis
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| 1. Is the storyline understandable? Is there anything text-related that I could add, edit, or remove to make my storyline clearer to you? | Insightful feedback |             |             |
+| 2. Are the current images that aren’t data-driven charts or graphs helpful for the story? Are there images you think I could add, edit, or remove to make my storyline clearer to you?  |                                |             |             |
+| 3. Are the data-driven visualizations clear and helpful to you? Is there anything I could do to make the data-driven visualizations direct the information in a clearer and more engaging way?  |                                |             |             |
+| 4. Is there anything you like about the current layout (e.g.: text size, color, image-text relationship… etc..)? Is there anything you dislike about the current layout, and why? Are there any suggestions you could give regarding the current layout?  |                                |             |             |
 
 
 # Identified changes for Part III
