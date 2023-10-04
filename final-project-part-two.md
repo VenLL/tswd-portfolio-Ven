@@ -83,6 +83,7 @@ Text here!
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
+# Final Thoughts
 > ...include any final thoughts you have here. 
 
 Text here!
