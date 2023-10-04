@@ -16,9 +16,9 @@ I laid out my wireframes and storylines in the order of:
 
 5. SIR and HAC rate relationship information + image
 
-6. Interactive Tableau Chart 1
+6. Interactive Tableau chart 1
 
-7. Interactive Tableau Chart 2
+7. Interactive Tableau chart 2
 
 8. Hook question for call for action + image
 
