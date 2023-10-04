@@ -6,25 +6,25 @@ I have drafted my wireframe and storyboard via shorthand ([link](https://carnegi
 
 I laid out my wireframes and storylines in the order of:
 
-Title+ title image
+1. Title+ title image
 
-Intro
+2. Intro
 
-Hook questions
+3. Hook questions
 
-SIR rates information
+4. SIR rates information
 
-SIR and HAC rate relationship information+image
+5. SIR and HAC rate relationship information+image
 
-Interactive Tableau Chart 1
+6. Interactive Tableau Chart 1
 
-Interactive Tableau Chart 2
+7. Interactive Tableau Chart 2
 
-Hook question for call for action+image
+8. Hook question for call for action+image
 
-Interactive Tableau chart 3
+9. Interactive Tableau chart 3
 
-Call for action.
+10. Call for action.
 
 
 # User research 
