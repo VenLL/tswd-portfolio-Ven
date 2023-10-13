@@ -1,4 +1,4 @@
-| [home page]((https://venll.github.io/tswd-portfolio-Ven/)) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](README.md)((https://venll.github.io/tswd-portfolio-Ven/)) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Assignment 3 & 4: Critique by Design
 ## Step One: Finding Data Viz
