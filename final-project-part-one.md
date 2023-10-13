@@ -92,7 +92,7 @@ I plan on undergoing data cleaning via Tableau prep and making visualizations vi
 
 # References
 1. Caplan, Z. (2023, May 25). U.S. older population grew from 2010 to 2020 at fastest rate since 1880 to 1890. Census.gov.
-(https://www.census.gov/library/stories/2023/05/2020-census-united-states-older-populati on-grew.html)
+(https://www.census.gov/library/stories/2023/05/2020-census-united-states-older-population-grew.html)
 
 2. News alert CMS releases latest enrollment figures for Medicare, Medicaid, and Children’s Health Insurance Program (CHIP). CMS. (2021, December 21).
 (https://www.cms.gov/newsroom/news-alert/cms-releases-latest-enrollment-figures-medica re-medicaid-and-childrens-health-insurance-program-chip)
