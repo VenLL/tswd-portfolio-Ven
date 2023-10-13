@@ -104,7 +104,7 @@ I plan on undergoing data cleaning via Tableau prep and making visualizations vi
 (https://www.cms.gov/about-cms/who-we-are/history)
 
 5. What’s the difference between Medicare and Medicaid?. Department of Health and Human Services. (2022, December 7). HHS.gov.
-( https://www.hhs.gov/answers/medicare-and-medicaid/what-is-the-difference-between-me dicare-medicaid/index.html#:~:text=A%20federal%20agency%20called%20the,what%2 0state%20they%20live%20in.)
+(https://www.hhs.gov/answers/medicare-and-medicaid/what-is-the-difference-between-me dicare-medicaid/index.html#:~:text=A%20federal%20agency%20called%20the,what%2 0state%20they%20live%20in.)
 
 6. Centers for Disease Control and Prevention. (n.d.). Morbidity and mortality weekly report (MMWR). Centers for Disease Control and Prevention. (https://www.cdc.gov/mmwr/preview/mmwrhtml/su6004a10.htm#:~:text=During%20the% 201950s%2C%20epidemic%20penicillin,infections%20(HAIs%3B%20i.e.%2C%20nosoc omial)
    
