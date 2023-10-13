@@ -91,15 +91,29 @@ I plan on undergoing some cleaning and analysis with the data in order to discov
 I plan on undergoing data cleaning via Tableau prep and making visualizations via Tableau desktop and Fourish. I will then use Shorthand to display my final project.
 
 # References
-References
-Caplan, Z. (2023, May 25). U.S. older population grew from 2010 to 2020 at fastest rate since 1880 to 1890. Census.gov. https://www.census.gov/library/stories/2023/05/2020-census-united-states-older-population-grew.html 
-News alert CMS releases latest enrollment figures for Medicare, Medicaid, and Children’s Health Insurance Program (CHIP). CMS. (2021, December 21). https://www.cms.gov/newsroom/news-alert/cms-releases-latest-enrollment-figures-medicare-medicaid-and-childrens-health-insurance-program-chip 
-How is Medicare funded?. Medicare. (n.d.). https://www.medicare.gov/about-us/how-is-medicare-funded 
-CMS’ program history. CMS.gov. (n.d.). https://www.cms.gov/about-cms/who-we-are/history#:~:text=for%2050%20years-,On%20July%2030%2C%201965%2C%20President%20Lyndon%20B 
-What’s the difference between Medicare and Medicaid?. Department of Health and Human Services. (2022, December 7). HHS.gov. https://www.hhs.gov/answers/medicare-and-medicaid/what-is-the-difference-between-medicare-medicaid/index.html#:~:text=A%20federal%20agency%20called%20the,what%20state%20they%20live%20in. 
-Centers for Disease Control and Prevention. (n.d.). Morbidity and mortality weekly report (MMWR). Centers for Disease Control and Prevention. https://www.cdc.gov/mmwr/preview/mmwrhtml/su6004a10.htm#:~:text=During%20the%201950s%2C%20epidemic%20penicillin,infections%20(HAIs%3B%20i.e.%2C%20nosocomial 
-Hospital-Acquired Condition (HAC) Reduction Program. Centers for Medicare & Medicaid Services. (2023, July 26). https://data.cms.gov/provider-data/dataset/yq43-i98g 
-What’s Medicare? Medicare. (n.d.). https://www.medicare.gov/what-medicare-covers/your-medicare-coverage-choices/whats-medicare 
-Dixon, Richard. E. (2011, October 7). Morbidity and mortality weekly report (MMWR). Centers for Disease Control and Prevention. https://www.cdc.gov/mmwr/preview/mmwrhtml/su6004a10.htm#:~:text=During%20the%201950s%2C%20epidemic%20penicillin,infections%20(HAIs%3B%20i.e.%2C%20nosocomial 
-Health policy brief - health affairs. (2015, August 6). https://www.healthaffairs.org/do/10.1377/hpb20150806.512738/full/healthpolicybrief_142.pdf 
+1. Caplan, Z. (2023, May 25). U.S. older population grew from 2010 to 2020 at fastest rate since 1880 to 1890. Census.gov.
+(https://www.census.gov/library/stories/2023/05/2020-census-united-states-older-populati on-grew.html)
 
+2. News alert CMS releases latest enrollment figures for Medicare, Medicaid, and Children’s Health Insurance Program (CHIP). CMS. (2021, December 21).
+(https://www.cms.gov/newsroom/news-alert/cms-releases-latest-enrollment-figures-medica re-medicaid-and-childrens-health-insurance-program-chip)
+
+3. How is Medicare funded?. Medicare. (n.d.).
+(https://www.medicare.gov/about-us/how-is-medicare-funded)
+
+4. CMS’ program history. CMS.gov. (n.d.).
+(https://www.cms.gov/about-cms/who-we are/history#:~:text=for%2050%20years-,On%2 0July%2030%2C%201965%2C%20President%20Lyndon%20B)
+
+5. What’s the difference between Medicare and Medicaid?. Department of Health and Human Services. (2022, December 7). HHS.gov.
+( https://www.hhs.gov/answers/medicare-and-medicaid/what-is-the-difference-between-me dicare-medicaid/index.html#:~:text=A%20federal%20agency%20called%20the,what%2 0state%20they%20live%20in.)
+
+6. Centers for Disease Control and Prevention. (n.d.). Morbidity and mortality weekly report (MMWR). Centers for Disease Control and Prevention. (https://www.cdc.gov/mmwr/preview/mmwrhtml/su6004a10.htm#:~:text=During%20the% 201950s%2C%20epidemic%20penicillin,infections%20(HAIs%3B%20i.e.%2C%20nosoc omial)
+   
+7. Hospital-Acquired Condition (HAC) Reduction Program. Centers for Medicare & Medicaid Services. (2023, July 26).
+(https://data.cms.gov/provider-data/dataset/yq43-i98g)
+
+8. What’s Medicare? Medicare. (n.d.).
+(https://www.medicare.gov/what-medicare-covers/your-medicare-coverage-choices/whats- medicare)
+
+9. Dixon, Richard. E. (2011, October 7). Morbidity and mortality weekly report (MMWR). Centers for Disease Control and Prevention. (https://www.cdc.gov/mmwr/preview/mmwrhtml/su6004a10.htm#:~:text=During%20the% 201950s%2C%20epidemic%20penicillin,infections%20(HAIs%3B%20i.e.%2C%20nosoc omial)
+    
+10. Health policy brief - health affairs. (2015, August 6). (https://www.healthaffairs.org/do/10.1377/hpb20150806.512738/full/healthpolicybrief_14 2.pdf)
