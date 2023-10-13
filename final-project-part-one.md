@@ -101,7 +101,7 @@ I plan on undergoing data cleaning via Tableau prep and making visualizations vi
 (https://www.medicare.gov/about-us/how-is-medicare-funded)
 
 4. CMS’ program history. CMS.gov. (n.d.).
-(https://www.cms.gov/about-cms/who-weare/history#:~:text=for%2050%20years-,On%2 0July%2030%2C%201965%2C%20President%20Lyndon%20B)
+(https://www.cms.gov/about-cms/who-weare/history#:~:text=for%2050%20years-,On%20July%2030%2C%201965%2C%20President%20Lyndon%20B)
 
 5. What’s the difference between Medicare and Medicaid?. Department of Health and Human Services. (2022, December 7). HHS.gov.
 ( https://www.hhs.gov/answers/medicare-and-medicaid/what-is-the-difference-between-me dicare-medicaid/index.html#:~:text=A%20federal%20agency%20called%20the,what%2 0state%20they%20live%20in.)
