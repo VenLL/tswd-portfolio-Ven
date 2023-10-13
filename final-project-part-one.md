@@ -114,6 +114,6 @@ I plan on undergoing data cleaning via Tableau prep and making visualizations vi
 8. What’s Medicare? Medicare. (n.d.).
 (https://www.medicare.gov/what-medicare-covers/your-medicare-coverage-choices/whats-medicare)
 
-9. Dixon, Richard. E. (2011, October 7). Morbidity and mortality weekly report (MMWR). Centers for Disease Control and Prevention. (https://www.cdc.gov/mmwr/preview/mmwrhtml/su6004a10.htm#:~:text=During%20the% 201950s%2C%20epidemic%20penicillin,infections%20(HAIs%3B%20i.e.%2C%20nosocomial)
+9. Dixon, Richard. E. (2011, October 7). Morbidity and mortality weekly report (MMWR). Centers for Disease Control and Prevention. (https://www.cdc.gov/mmwr/preview/mmwrhtml/su6004a10.htm#:~:text=During%20the%201950s%2C%20epidemic%20penicillin,infections%20(HAIs%3B%20i.e.%2C%20nosocomial)
     
-10. Health policy brief - health affairs. (2015, August 6). (https://www.healthaffairs.org/do/10.1377/hpb20150806.512738/full/healthpolicybrief_14 2.pdf)
+10. Health policy brief - health affairs. (2015, August 6). (https://www.healthaffairs.org/do/10.1377/hpb20150806.512738/full/healthpolicybrief_142.pdf)
