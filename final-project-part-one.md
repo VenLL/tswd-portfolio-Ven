@@ -95,7 +95,7 @@ I plan on undergoing data cleaning via Tableau prep and making visualizations vi
 (https://www.census.gov/library/stories/2023/05/2020-census-united-states-older-population-grew.html)
 
 2. News alert CMS releases latest enrollment figures for Medicare, Medicaid, and Children’s Health Insurance Program (CHIP). CMS. (2021, December 21).
-(https://www.cms.gov/newsroom/news-alert/cms-releases-latest-enrollment-figures-medica re-medicaid-and-childrens-health-insurance-program-chip)
+(https://www.cms.gov/newsroom/news-alert/cms-releases-latest-enrollment-figures-medicare-medicaid-and-childrens-health-insurance-program-chip)
 
 3. How is Medicare funded?. Medicare. (n.d.).
 (https://www.medicare.gov/about-us/how-is-medicare-funded)
