@@ -2,9 +2,8 @@
 
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+My final data story was made via Shorthand(https://carnegiemellon.shorthandstories.com/sir-rates/index.html).
 
-Text here!
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
