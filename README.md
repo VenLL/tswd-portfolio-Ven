@@ -38,6 +38,6 @@ Here are my three main goals:
 This is where I will link my final project.
 [Part I](final-project-part-one.md)
 [Part II](final-project-part-two.md)
-[Part III](final-project-part-three)
+[Part III](final-project-part-three.md)
 
 
