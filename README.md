@@ -1,3 +1,7 @@
+| [home page](README.md) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
+
+
+
 # Overview
 This is Ven's porfolio for telling stories with data at CMU. I am so glad to be a participant of this course!
 
