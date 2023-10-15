@@ -6,19 +6,17 @@ My final data story was made via Shorthand([link](https://preview.shorthand.com/
 
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
+1. I tried to clarify the meaning behind the x and y axis of each graph.
+2. I tried to clarify the story of my graph via word flow and graph flows.
+3. I made sure citations and references were addressed.
+4. I tried to make typography consistent and hierarchy understandable.
+5. I tried making a clearer call to action: check SIR Rates via CMS.gov.
+6. I tried to make the color tone of my data story consistent with the usage of blues, greens, whites, and blacks.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+I tried clarifying my intended audience to be people who will visit hospitals and are looking to select hospitals.
+I thus reduced the use of data jargon and tried to use succinct language and simple graphs and images to help this intended audience understand my data story.
 
-Text here!
-
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
 
 ## References
 1. Caplan, Z. (2023, May 25). U.S. older population grew from 2010 to 2020 at fastest rate since 1880 to 1890. Census.gov.
@@ -59,6 +57,6 @@ Medicare Spending Per Beneficiary: https://data.cms.gov/provider-data/dataset/rr
 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+Though it was quite intense work, I did love this assignment and find it really helpful for my future career. Thanks to everything that had been taught and instructed through this project!!
 
-Text here!
+
