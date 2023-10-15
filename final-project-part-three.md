@@ -2,7 +2,7 @@
 
 
 # The final data story
-My final data story was made via Shorthand([link])(https://preview.shorthand.com/ilRwiKkcFKqY56GI).
+My final data story was made via Shorthand([link](https://preview.shorthand.com/ilRwiKkcFKqY56GI).
 
 
 # Changes made since Part II
