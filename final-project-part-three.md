@@ -2,7 +2,7 @@
 
 
 # The final data story
-My final data story was made via Shorthand([link](https://carnegiemellon.shorthandstories.com/sir-rates/index.html)).
+My final data story was made via Shorthand([link](https://preview.shorthand.com/ilRwiKkcFKqY56GI_).
 
 
 # Changes made since Part II
