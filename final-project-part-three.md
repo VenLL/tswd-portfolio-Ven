@@ -15,7 +15,7 @@ My final data story was made via Shorthand([link](https://preview.shorthand.com/
 
 ## The audience
 I tried clarifying my intended audience to be people who will visit hospitals and are looking to select hospitals.
-I thus reduced the use of data jargon and tried to use succinct language and simple graphs and images to help this intended audience understand my data story.
+I thus reduced the use of data jargon and tried to use succinct language and simple graphs and images to help this intended audience gain a better understanding of my data story.
 
 
 ## References
